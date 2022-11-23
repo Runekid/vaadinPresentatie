@@ -1,11 +1,11 @@
 ############# Vaadin intro voor dummies :) #############
 
-Mentale benodigdheden:
-    * Basic Java kennis
+Mentale benodigdheden:\n
+    * Basic Java kennis\n
     * Basic Javascript kennis (optioneel tbh)
 
-Praktische benodigdheden:
-    * >= Java 11
+Praktische benodigdheden:\n
+    * >= Java 11\n
     * IntelliJ
 
 
@@ -13,13 +13,13 @@ Praktische benodigdheden:
 
 https://vaadin.com/flow
 
-Stappen voor tutorial project:
-    * Openen in IntelliJ
-    * Runnen
-    * Tonen van documentatie voor componenten
-    * Tonen van refactoring voor leesbaarheid (event-driven development)
-    * Tonen van styling (browser first)
-    * Tonen van Routing
+Stappen voor tutorial project:\n
+    * Openen in IntelliJ\n
+    * Runnen\n
+    * Tonen van documentatie voor componenten\n
+    * Tonen van refactoring voor leesbaarheid (event-driven development)\n
+    * Tonen van styling (browser first)\n
+    * Tonen van Routing\n
     * Conclude
 
 
