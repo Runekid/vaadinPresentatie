@@ -23,7 +23,7 @@ Stappen voor tutorial project:<br />
     * Conclude
 
 
-####### Vaadin Documentatie #######
+####### Vaadin Documentatie #######<br />
 https://vaadin.com/docs/latest
 
 https://vaadin.com/api/platform/23.2.9/index.html
